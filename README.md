@@ -31,8 +31,7 @@ It helps water management authorities make informed decisions to address issues 
 ---
 
 ## Problem Context
-Penang, Malaysia, has faced critical water shortages where reservoirs had only 30 days of water supply left.  
-Additionally, poor response to heavy rainfall 10 years ago in Cameron Highlands caused sudden floods.  
+Penang, Malaysia, has faced critical water shortages where reservoirs had only 30 days of water supply left.Additionally, poor response to heavy rainfall 10 years ago in Cameron Highlands caused sudden floods.  
 These examples show that weather is a major factor affecting water volume, and better prediction models are necessary.
 
 ---
@@ -134,9 +133,7 @@ Key findings:
 ---
 
 ## Conclusion
-Machine learning models, especially ensemble methods like Random Forest Regression, can greatly assist in proactive water resource management.  
-Predictions allow authorities to better prepare for abnormal weather events, optimize water usage, and prevent disasters like floods and shortages.  
-While machine learning improves decision-making, human judgment remains crucial due to the inherent uncertainty in predictions.
+Machine learning models, especially ensemble methods like Random Forest Regression, can greatly assist in proactive water resource management.Predictions allow authorities to better prepare for abnormal weather events, optimize water usage, and prevent disasters like floods and shortages.While machine learning improves decision-making, human judgment remains crucial due to the inherent uncertainty in predictions.
 
 ---
 
