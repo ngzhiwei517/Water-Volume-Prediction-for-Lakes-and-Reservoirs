@@ -18,9 +18,10 @@
   - [Gaussian Process Regression (GPR)](#gaussian-process-regression-gpr)
   - [Auto-sklearn](#auto-sklearn)
 - [Results](#results)
-- [Conclusion](#conclusion)
 - [How to Run This Project](#how-to-run-this-project)
-- [License](#license)
+- [Conclusion](#conclusion)
+
+
 
 ---
 
@@ -129,14 +130,8 @@ Key findings:
 - Auto-sklearn produced an ensemble model with better performance:
   - R²: 0.731670
 - When limited to a single model, Auto-sklearn also selected Random Forest Regression, but our tuned model performed better than Auto-sklearn’s individual model.
-
+  
 ---
-
-## Conclusion
-Machine learning models, especially ensemble methods like Random Forest Regression, can greatly assist in proactive water resource management.Predictions allow authorities to better prepare for abnormal weather events, optimize water usage, and prevent disasters like floods and shortages.While machine learning improves decision-making, human judgment remains crucial due to the inherent uncertainty in predictions.
-
----
-
 ## How to Run This Project
 
 1. Clone the Repository
@@ -159,3 +154,8 @@ cd water-volume-prediction
      - Model training
      - Model evaluation
 ---
+
+## Conclusion
+
+Machine learning models, especially ensemble methods like Random Forest Regression, can greatly assist in proactive water resource management.Predictions allow authorities to better prepare for abnormal weather events, optimize water usage, and prevent disasters like floods and shortages.While machine learning improves decision-making, human judgment remains crucial due to the inherent uncertainty in predictions.
+
