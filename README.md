@@ -26,8 +26,7 @@
 ---
 
 ## Project Overview
-This project aims to predict the changes in water volume of a lake or reservoir over the next 24 hours based on weather conditions.  
-It helps water management authorities make informed decisions to address issues caused by climate change and sudden weather events.
+This project aims to predict the changes in water volume of a lake or reservoir over the next 24 hours based on weather conditions.It helps water management authorities make informed decisions to address issues caused by climate change and sudden weather events.
 
 ---
 
